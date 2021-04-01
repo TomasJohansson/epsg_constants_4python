@@ -1,21 +1,31 @@
 #!/usr/bin/env python
 
+# Run the tests as below from the root folder of this python project:
+# cd [THE_ROOT_FOLDER]
+# python -m unittest discover -s tests
+
 """Tests for `epsg_constants_4python` package."""
 
 
 import unittest
 
-from epsg_constants_4python import epsg_constants_4python
-
+from epsg_constants_4python.epsg_number import EpsgNumber
 
 class TestEpsg_constants_4python(unittest.TestCase):
     """Tests for `epsg_constants_4python` package."""
 
-    def setUp(self):
-        """Set up test fixtures, if any."""
+    def test_someConstants(self):
+        self.assertEqual(
+            EpsgNumber.WORLD__WGS_84__4326,
+            4326
+        )
 
-    def tearDown(self):
-        """Tear down test fixtures, if any."""
+        self.assertEqual(
+            EpsgNumber.SWEDEN__SWEREF99_TM__3006,
+            3006
+        )
 
-    def test_000_something(self):
-        """Test something."""
+        self.assertEqual(
+            EpsgNumber.SWEDEN__12_00__SWEREF99_12_00__3007,
+            3007
+        )
