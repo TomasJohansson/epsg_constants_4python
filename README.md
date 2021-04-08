@@ -1,13 +1,18 @@
-# epsg_constants
+# epsg_constants_4python
 
 ## Purpose
 
-The constants can be used for getting intellisense help, for example when using PyCharm or Visual Studio Code, and using some Python coordinate transformation library using EPSG codes.
-For example if you want to use the CRS SWEREF99TM but do not remember its EPSG number 3006, then you can find it as in the screenshot below.
+The constants can be used for getting intellisense help, for example with PyCharm or Visual Studio Code, and some Python coordinate transformation library using EPSG codes.  
+For example if you want to use the CRS SWEREF99TM but do not remember its EPSG number 3006, then you can find it as in the screenshots below.
 
-![EPSG_SQL](docs/images/sweden_1.png)
+Visual Studio Code:  
+![VScode](https://raw.githubusercontent.com/TomasJohansson/epsg_constants_4python/main/docs/images/epsg_constants_4python_vscode.gif)
 
 
+PyCharm:  
+![PyCharm](https://raw.githubusercontent.com/TomasJohansson/epsg_constants_4python/main/docs/images/epsg_constants_4python_pycharm.gif)
+
+<!-- 
 ## Usage
 
 Install the Python package:
@@ -22,7 +27,7 @@ from epsg_constants.epsg_number import EpsgNumber
 
 print("EpsgNumber WGS84 : " + str(EpsgNumber.WORLD__WGS_84__4326))
 print("EpsgNumber SWEREF99TM : " + str(EpsgNumber.SWEDEN__SWEREF99_TM__3006))
-```
+``` -->
 
 ## License
 
