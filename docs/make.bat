@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=epsg_constants_4python
+set SPHINXPROJ=epsg_constants
 
 if "%1" == "" goto help
 

@@ -1,4 +1,4 @@
-* epsg_constants_4python version:
+* epsg_constants version:
 * Python version:
 * Operating System:
 

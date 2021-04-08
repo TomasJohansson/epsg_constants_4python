@@ -1,4 +1,4 @@
-"""Top-level package for epsg_constants_4python."""
+"""Top-level package for epsg_constants."""
 
 __author__ = """Tomas Johansson"""
 __email__ = 'pypi@programmerare.com'

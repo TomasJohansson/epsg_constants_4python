@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install epsg_constants_4python, run this command in your terminal:
+To install epsg_constants, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install epsg_constants_4python
+    $ pip install epsg_constants
 
-This is the preferred method to install epsg_constants_4python, as it will always install the most recent stable release.
+This is the preferred method to install epsg_constants, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -26,7 +26,7 @@ you through the process.
 From sources
 ------------
 
-The sources for epsg_constants_4python can be downloaded from the `Github repo`_.
+The sources for epsg_constants can be downloaded from the `Github repo`_.
 
 You can either clone the public repository:
 

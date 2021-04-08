@@ -1,16 +1,16 @@
 ======================
-epsg_constants_4python
+epsg_constants
 ======================
 
 
-.. image:: https://img.shields.io/pypi/v/epsg_constants_4python.svg
-        :target: https://pypi.python.org/pypi/epsg_constants_4python
+.. image:: https://img.shields.io/pypi/v/epsg_constants.svg
+        :target: https://pypi.python.org/pypi/epsg_constants
 
-.. image:: https://img.shields.io/travis/TomasJohansson/epsg_constants_4python.svg
-        :target: https://travis-ci.com/TomasJohansson/epsg_constants_4python
+.. image:: https://img.shields.io/travis/TomasJohansson/epsg_constants.svg
+        :target: https://travis-ci.com/TomasJohansson/epsg_constants
 
-.. image:: https://readthedocs.org/projects/epsg-constants-4python/badge/?version=latest
-        :target: https://epsg-constants-4python.readthedocs.io/en/latest/?version=latest
+.. image:: https://readthedocs.org/projects/epsg-constants/badge/?version=latest
+        :target: https://epsg-constants.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
 
@@ -20,7 +20,7 @@ Python constants with EPSG numbers for coordinate reference systems, based on EP
 
 
 * Free software: MIT license
-* Documentation: https://epsg-constants-4python.readthedocs.io.
+* Documentation: https://epsg-constants.readthedocs.io.
 
 
 Features

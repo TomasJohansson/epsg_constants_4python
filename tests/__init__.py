@@ -1,1 +1,1 @@
-"""Unit test package for epsg_constants_4python."""
+"""Unit test package for epsg_constants."""

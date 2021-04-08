@@ -4,15 +4,15 @@
 # cd [THE_ROOT_FOLDER]
 # python -m unittest discover -s tests
 
-"""Tests for `epsg_constants_4python` package."""
+"""Tests for `epsg_constants` package."""
 
 
 import unittest
 
-from epsg_constants_4python.epsg_number import EpsgNumber
+from epsg_constants.epsg_number import EpsgNumber
 
-class TestEpsg_constants_4python(unittest.TestCase):
-    """Tests for `epsg_constants_4python` package."""
+class TestEpsg_constants(unittest.TestCase):
+    """Tests for `epsg_constants` package."""
 
     def test_someConstants(self):
         self.assertEqual(

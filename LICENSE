@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ----------------------------------------------------------------------------------------------
-The above license text is for 'epsg_constants_4python' (https://github.com/TomasJohansson/epsg_constants_4python) 
+The above license text is for 'epsg_constants_4python' (https://github.com/TomasJohansson/epsg_constants_4python)
 which is a library with EPSG constants.
 The constants in this library was generated based on data from EPSG Dataset.
 (http://www.epsg.org)
@@ -29,7 +29,7 @@ The library is released with the above MIT license.
 Regarding the data (which was used for creating the constants) itself: Ownership of the EPSG Dataset by IOGP is acknowledged.
 (which is a requirement, see below)
 
-Some quotes from the EPSG webpage 'Terms of use' (https://epsg.org/terms-of-use.html): 
-    " The EPSG Facilities are published by IOGP at no charge. 
-      Distribution for profit is forbidden ... 
+Some quotes from the EPSG webpage 'Terms of use' (https://epsg.org/terms-of-use.html):
+    " The EPSG Facilities are published by IOGP at no charge.
+      Distribution for profit is forbidden ...
       Ownership of the EPSG Dataset by IOGP must be acknowledged... "

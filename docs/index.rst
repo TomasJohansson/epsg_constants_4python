@@ -1,4 +1,4 @@
-Welcome to epsg_constants_4python's documentation!
+Welcome to epsg_constants's documentation!
 ======================================
 
 .. toctree::

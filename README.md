@@ -1,4 +1,4 @@
-# epsg_constants_4python
+# epsg_constants
 
 ## Purpose
 
