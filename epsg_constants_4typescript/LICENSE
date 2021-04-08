@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2021 Tomas Johansson
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+----------------------------------------------------------------------------------------------
+The above license text is for 'epsg_constants_4typescript' (https://github.com/TomasJohansson/epsg_constants_4typescript) 
+which is a library with EPSG constants.
+The constants in this library was generated based on data from EPSG Dataset.
+(http://www.epsg.org)
+The library is released with the above MIT license.
+
+Regarding the data (which was used for creating the constants) itself: Ownership of the EPSG Dataset by IOGP is acknowledged.
+(which is a requirement, see below)
+
+Some quotes from the EPSG webpage 'Terms of use' (https://epsg.org/terms-of-use.html): 
+    " The EPSG Facilities are published by IOGP at no charge. 
+      Distribution for profit is forbidden ... 
+      Ownership of the EPSG Dataset by IOGP must be acknowledged... "
