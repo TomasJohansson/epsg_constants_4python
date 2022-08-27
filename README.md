@@ -22,7 +22,7 @@ print("EpsgNumber SWEREF99TM : " + str(EpsgNumber.SWEDEN__SWEREF99_TM__3006))
 
 ## License information
 
-The Python class with constants in this package was [generated](https://github.com/TomasJohansson/crsTransformations/tree/master/crs-transformation-code-generation) based on data from [EPSG](http://www.epsg.org) Dataset.  
+The Python class with constants in this package was [generated](https://github.com/TomasJohansson/crsTransformations/tree/master/crs-transformation-code-generation) based on data from [EPSG](https://epsg.org/) Dataset.  
 It is released with license MIT.
 
 Regarding the EPSG **data**: Ownership of the EPSG Dataset by IOGP is acknowledged as in the [Terms of Use](https://epsg.org/terms-of-use.html)
